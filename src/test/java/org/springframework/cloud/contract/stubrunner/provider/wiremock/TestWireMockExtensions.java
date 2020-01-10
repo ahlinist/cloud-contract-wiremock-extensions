@@ -4,7 +4,6 @@ import com.github.tomakehurst.wiremock.extension.Extension;
 import org.springframework.cloud.contract.verifier.dsl.wiremock.DefaultResponseTransformer;
 import org.springframework.cloud.contract.verifier.dsl.wiremock.WireMockExtensions;
 
-import java.util.Arrays;
 import java.util.List;
 
 /**
